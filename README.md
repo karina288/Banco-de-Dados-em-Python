@@ -1,21 +1,31 @@
 # Banco-de-Dados-em-Python
-**Trabalho realizado para a disciplina de Programação de Computadores I ministrada pelo professor Luis Antônio Kowada, no semestre de 2019.1.
+**Trabalho realizado para a disciplina de Programação de Computadores I ministrada pelo professor Luis Antônio Kowada, no semestre de 2019.1.**
 
-**BANCO DE DORAMAS**é um programa em python desenvolvido para funcionar como um organizador pessoal de uma dorameira(o). O programa permite que o usuário tenha seus doramas(séries asiáticas) listados, organizados e guardados em um banco de dados. Esse banco de dados é organizado em 6 campos, nome, tipo,gênero, nº de episódios, terminado[S/N] e episódios de parada. Com esses campos o usuário poderá ter um controle sobre os doramas que está assistindo ou que já assistiu.
+**BANCO DE DORAMAS** é um programa em python desenvolvido para funcionar como um organizador pessoal de uma dorameira(o). O programa permite que o usuário tenha seus doramas(séries asiáticas) listados, organizados e guardados em um banco de dados. Esse banco de dados é organizado em 6 campos, nome, tipo,gênero, nº de episódios, terminado[S/N] e episódios de parada. Com esses campos o usuário poderá ter um controle sobre os doramas que está assistindo ou que já assistiu.
 
 O programa possui funções em seu código fonte que são responsáveis por permitir ao usuário desfrutar de um menu de opções quando estiver utilizando o  banco de doramas. As opções são variadas, como pode se ver a seguir:
 
-**_MENU INICIAL:
-[ 1 ] - Criar tabela
-[ 2 ] - Gravar tabela no arquivo
-[ 3 ] - Ler tabela do arquivo
-[ 4 ] - Apagar tabela do arquivo
-[ 5 ] - Listar dados da tabela 
-[ 6 ] - Consultar um registro 
-[ 7 ] - Inserir novo registro na tabela
-[ 8 ] - Apagar registro
-[ 9 ] - Listagem total ou filtrada
-[ 0 ] - Sair do programa_**
+**_MENU INICIAL:_**
+
+**_[ 1 ] Criar tabela_**
+
+**_[ 2 ] Gravar tabela no arquivo_**
+
+**_[ 3 ] Ler tabela do arquivo_**
+
+**_[ 4 ] Apagar tabela do arquivo_**
+
+**_[ 5 ] Listar dados da tabela_**
+
+**_[ 6 ] Consultar um registro_**
+
+**_[ 7 ] Inserir novo registro na tabela_**
+
+**_[ 8 ] Apagar registro_**
+
+**_[ 9 ] Listagem total ou filtrada_**
+
+**_[ 0 ] Sair do programa_**
 
 Explicação acerca de cada função contida no código fonte:
 
